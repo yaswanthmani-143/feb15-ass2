@@ -1,0 +1,8 @@
+a = int (input())
+b = int (input())
+
+integerdivision = a//b
+floatdivision =a/b
+
+print (integerdivision)
+print (floatdivision)
